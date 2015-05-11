@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PD3100sifra43.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Konekcija" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=10.0.9.4;Initial Catalog=PioRS;Persist Security Info=True;User ID=sa;Password=$idi0us;</Value>
+    </Setting>
+    <Setting Name="PioRSConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=radenko-pc\MSSQL2008;Initial Catalog=PioRS;Persist Security Info=True;User ID=sa;Password=pegla80;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
